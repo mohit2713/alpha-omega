@@ -3,12 +3,12 @@
 ## 🎥 Demo & Live Links
 
 ### �� **Video Demo**
-[�� **Watch Demo Video**](https://your-video-link.com)
+[�� **Watch Demo Video**](https://drive.google.com/file/d/1It-DOiXtoF1HWJ4RKJ0GsdcR208bFswq/view?usp=sharing)
 
 *See the car dashboard in action with all interactive features*
 
 ### 🌐 **Live Demo**
-[🔗 **Live Demo**](https://your-live-link.com)
+[🔗 **Live Demo**](https://golden-gelato-1699ab.netlify.app/)
 
 ## �� Project Overview
 
@@ -34,7 +34,7 @@ This project demonstrates an AI-powered approach to creating professional UI des
 - Real-time price updates
 - Interactive sliders for:
   - Number of Invites (10-200)
-  - Duration of Event (1-12 months)
+  - Duration of Event (1-84 months)
 - Professional currency formatting (Indian Rupees)
 - Price breakdown visualization
 

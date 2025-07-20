@@ -53,7 +53,7 @@ const ImageCarousel = () => {
 
         <button
           onClick={goToPrevious}
-          className="absolute left-4 top-1/2 transform -translate-y-1/2 bg-gray-800 bg-opacity-80 hover:bg-opacity-100 text-white p-3 rounded shadow-lg transition-all duration-200"
+          className="absolute left-4 cursor-pointer top-1/2 transform -translate-y-1/2 bg-gray-800 bg-opacity-80 hover:bg-opacity-100 text-white p-3 rounded shadow-lg transition-all duration-200"
           aria-label="Previous image"
         >
           <svg
@@ -73,7 +73,7 @@ const ImageCarousel = () => {
 
         <button
           onClick={goToNext}
-          className="absolute right-4 top-1/2 transform -translate-y-1/2 bg-gray-800 bg-opacity-80 hover:bg-opacity-100 text-white p-3 rounded shadow-lg transition-all duration-200"
+          className="absolute right-4 cursor-pointer top-1/2 transform -translate-y-1/2 bg-gray-800 bg-opacity-80 hover:bg-opacity-100 text-white p-3 rounded shadow-lg transition-all duration-200"
           aria-label="Next image"
         >
           <svg
@@ -91,7 +91,6 @@ const ImageCarousel = () => {
           </svg>
         </button>
       </div>
-
 
       <Car360View isOpen={show360View} onClose={() => setShow360View(false)} />
     </>
